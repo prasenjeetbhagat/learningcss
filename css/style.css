@@ -1,11 +1,102 @@
-h4{
+/* h4 {
     color: coral;
     background-color: aqua;
     font-weight: lighter;
-}
-h3{
+} */
+
+h3 {
     font-size: 65px;
     color: black;
     background-color: yellow;
     font: optional;
+}
+
+h2 {
+    font-size: 45px;
+    font-weight: bolder;
+    text-emphasis: none;
+}
+
+h5 {
+    color: coral;
+    font-size: 75px;
+    background-color: cadetblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.heading4 {
+    color: green;
+    background-color: blanchedalmond;
+    font-size: 56px;
+    font-weight: medium;
+}
+
+.lorem {
+    color: darkblue;
+    background-color: aqua;
+}
+
+#Admith3 {
+    color: coral;
+    background-color: azure;
+    font-size: 45px;
+}
+
+#various1 {
+    color: chocolate;
+    background-color: bisque;
+    font-weight: bold;
+}
+
+.t_transform_uppercase {
+    text-transform: uppercase;
+}
+
+.t_transform_lowercase {
+    text-transform: lowercase;
+}
+
+.t_transform_capitalize {
+    text-transform: capitalize;
+}
+
+.t_transform_overflow {
+    text-overflow: clip;
+}
+
+.t_text_decoration1 {
+    text-decoration: line-through;
+}
+
+.t_text_decoration2 {
+    text-decoration: underline;
+}
+
+.t_text_decoration3 {
+    text-decoration: overline;
+}
+
+.text_d {
+    text-decoration: underline overline line-through;
+}
+.text_align_r{
+    text-align: right;
+}
+.text_align_c{
+    text-align: center;
+}
+.text_align_l{
+    text-align: left;
+}
+.t_shadow1{
+    text-align: center;
+    color: blue;
+    font-size: 56px;
+    text-shadow: 8px 9px 8px red;
+}
+.t_shadow2{
+    font-size: 56px;
+    color: blanchedalmond;
+    text-shadow: 1px 0px 0px purple;
 }
