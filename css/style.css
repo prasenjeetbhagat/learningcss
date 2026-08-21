@@ -80,22 +80,27 @@ h5 {
 .text_d {
     text-decoration: underline overline line-through;
 }
-.text_align_r{
+
+.text_align_r {
     text-align: right;
 }
-.text_align_c{
+
+.text_align_c {
     text-align: center;
 }
-.text_align_l{
+
+.text_align_l {
     text-align: left;
 }
-.t_shadow1{
+
+.t_shadow1 {
     text-align: center;
     color: blue;
     font-size: 56px;
     text-shadow: 8px 9px 8px red;
 }
-.t_shadow2{
+
+.t_shadow2 {
     font-size: 56px;
     color: blanchedalmond;
     text-shadow: 1px 0px 0px purple;
